@@ -8,4 +8,5 @@ use (
 	trace
 	vcs
 	fs
+	backend
 )
