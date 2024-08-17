@@ -10,3 +10,6 @@
 [submodule "backend/goseaweedfs"]
 	path = backend/goseaweedfs
 	url = https://github.com/iopslab/goseaweedfs.git
+[submodule "trace"]
+	path = trace
+	url = https://github.com/iopslab/go-trace.git
