@@ -1,3 +1,15 @@
 [submodule "backend/crawlab-core"]
 	path = backend/crawlab-core
 	url = https://github.com/crawlab-team/crawlab-core.git
+[submodule "backend/iopslab-core"]
+	path = backend/iopslab-core
+	url = https://github.com/iopslab/iopslab-core.git
+[submodule "backend/iopslab-grpc"]
+	path = backend/iopslab-grpc
+	url = https://github.com/iopslab/iopslab-grpc.git
+[submodule "backend/iopslab-vcs"]
+	path = backend/iopslab-vcs
+	url = https://github.com/iopslab/iopslab-vcs.git
+[submodule "backend/goseaweedfs"]
+	path = backend/goseaweedfs
+	url = https://github.com/iopslab/goseaweedfs.git
