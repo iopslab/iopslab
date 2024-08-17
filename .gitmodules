@@ -1,6 +1,3 @@
-[submodule "backend/crawlab-core"]
-	path = backend/crawlab-core
-	url = https://github.com/crawlab-team/crawlab-core.git
 [submodule "backend/iopslab-core"]
 	path = backend/iopslab-core
 	url = https://github.com/iopslab/iopslab-core.git
