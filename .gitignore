@@ -10,5 +10,5 @@ vendor/
 .crawlab
 dist/
 
-#data/mongo
-#data/seaweedfs
+data/mongo
+data/seaweedfs
