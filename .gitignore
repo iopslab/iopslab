@@ -9,3 +9,6 @@ _book/
 vendor/
 .crawlab
 dist/
+
+data/mongo
+data/seaweedfs
