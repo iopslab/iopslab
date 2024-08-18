@@ -148,3 +148,10 @@ require (
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
+
+replace github.com/crawlab-team/crawlab-core => ./iopslab-core
+replace github.com/crawlab-team/crawlab-grpc => ./iopslab-grpc
+replace github.com/crawlab-team/crawlab-vcs => ./iopslab-vcs
+replace github.com/crawlab-team/goseaweedfs => ./goseaweedfs
+
+
