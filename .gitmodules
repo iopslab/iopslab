@@ -13,3 +13,6 @@
 [submodule "trace"]
 	path = trace
 	url = https://github.com/iopslab/go-trace.git
+[submodule "frontend/iopslab-ui"]
+	path = frontend/iopslab-ui
+	url = https://github.com/iopslab/iopslab-ui.git
